@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ragul
+- 👀 I’m interested in Statistical programming
+- 🌱 I’m currently learning R programming
+- 💞️ I’m looking to collaborate on R projects
+- 📫 How to reach me sragul1210@gmail.com
